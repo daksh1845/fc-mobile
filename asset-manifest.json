@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fc-mobile/static/css/main.03443a96.css",
+    "main.js": "/fc-mobile/static/js/main.3e61a402.js",
+    "static/media/i2.jpg": "/fc-mobile/static/media/i2.df4605986caf7d9264f1.jpg",
+    "static/media/Header-image.jpg": "/fc-mobile/static/media/Header-image.0e4fd107b04c1ead61c8.jpg",
+    "static/media/i1.jpg": "/fc-mobile/static/media/i1.b441ad2367a814358416.jpg",
+    "static/media/i4.jpg": "/fc-mobile/static/media/i4.3f5e140bf6a27f43c424.jpg",
+    "static/media/i5.jpg": "/fc-mobile/static/media/i5.40a935d5b552c46934d4.jpg",
+    "static/media/i3.jpg": "/fc-mobile/static/media/i3.7e1fae9edecd658f0fa5.jpg",
+    "index.html": "/fc-mobile/index.html",
+    "main.03443a96.css.map": "/fc-mobile/static/css/main.03443a96.css.map",
+    "main.3e61a402.js.map": "/fc-mobile/static/js/main.3e61a402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03443a96.css",
+    "static/js/main.3e61a402.js"
+  ]
+}
